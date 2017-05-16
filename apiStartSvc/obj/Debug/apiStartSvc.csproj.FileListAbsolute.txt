@@ -1,0 +1,9 @@
+D:\Source\repo2017\apiStartSvc\apiStartSvc\bin\Debug\apiStartSvc.exe.config
+D:\Source\repo2017\apiStartSvc\apiStartSvc\bin\Debug\apiStartSvc.exe
+D:\Source\repo2017\apiStartSvc\apiStartSvc\bin\Debug\apiStartSvc.pdb
+D:\Source\repo2017\apiStartSvc\apiStartSvc\obj\Debug\apiStartSvc.mySvc.resources
+D:\Source\repo2017\apiStartSvc\apiStartSvc\obj\Debug\apiStartSvc.ProjectInstaller.resources
+D:\Source\repo2017\apiStartSvc\apiStartSvc\obj\Debug\apiStartSvc.csproj.GenerateResource.Cache
+D:\Source\repo2017\apiStartSvc\apiStartSvc\obj\Debug\apiStartSvc.exe
+D:\Source\repo2017\apiStartSvc\apiStartSvc\obj\Debug\apiStartSvc.pdb
+D:\Source\repo2017\apiStartSvc\apiStartSvc\obj\Debug\apiStartSvc.csprojResolveAssemblyReference.cache
